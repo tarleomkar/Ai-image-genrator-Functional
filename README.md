@@ -1,6 +1,6 @@
 AI Image Generator App
 
-Live Demo: AI Image Generator App
+Live Demo: AI Image Generator App (https://statuesque-cajeta-87076a.netlify.app/)
 
 Overview
 The AI Image Generator App is a cutting-edge, fully responsive web application that transforms text prompts into stunning AI-generated images. Built with a modern design philosophy and seamless animations, the app delivers a delightful user experience.
